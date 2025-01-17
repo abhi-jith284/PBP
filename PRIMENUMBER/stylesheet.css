@@ -1,0 +1,94 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    width: 50%;
+    align-items: center;
+    /* padding-top: 350px;
+    padding-left: 350px;
+    padding-bottom: 350px; */
+    justify-content: center;
+    border: 1px solid white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background: url(https://media2.giphy.com/media/5dl2u2Iy6hwEEXwlFv/giphy.gif?cid=6c09b952sc7wvfh1qc42q2nybmxn0f75nezgwgyx6pvmphuf&ep=v1_gifs_search&rid=giphy.gif&ct=g);
+    background-position: center;
+    
+}
+.input1{
+    padding-top: 350px;
+    padding-left: 500px;
+    padding-bottom: 350px;
+
+}
+@font-face{
+    font-family: fourth;
+    src: url(font/l\ \(10\));
+}
+body{
+    /* background-color: blueviolet; */
+    /* background: url(https://tse1.mm.bing.net/th?id=OIP.S-nTysUd76wQ0heF9PYtRAHaHa&pid=Api&P=0&h=180); */
+    /* background: url(https://media3.giphy.com/media/26AHMBTzc1qJgFfDW/giphy.gif); */
+    /* background: url(https://c.tenor.com/T0Pn_3X2R18AAAAC/swirl-purple.gif); */
+    /* background:url(http://cdn.wallpapersafari.com/86/10/ukqRzY.gif); */
+    /* background: url(https://media.giphy.com/media/OkVVUlG40FnuE/giphy.gif); */
+    background: url(https://media4.giphy.com/media/326d5iOUoYY8N6uFPm/giphy.gif?cid=6c09b952r8bir024eiy2bxeg4ojzciumn0q2jdvb3vsi62h4&ep=v1_gifs_search&rid=giphy.gif&ct=g);
+    background-size: cover;
+    background-position: center;
+}
+.primechecker{
+    border-radius: 5px;
+    height: 40px;
+    border: 3px solid pink;
+    /* background-color: rgb(215, 196, 234); */
+    background: transparent;
+}
+.result{
+    width: 350px;
+    height: 50px;
+    /* background-color: rgb(177, 141, 227); */
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 10px;
+    
+}
+.btn{
+    height: 30px;
+    width: 20%;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    /* background-color:palevioletred; */
+    background: url(https://media.giphy.com/media/OkVVUlG40FnuE/giphy.gif);
+    background-position: center;
+}
+/* .whole{
+    border: 3px solid black;
+    width: 350px;
+    height: 350px;
+
+} */
+
+.btn i{
+    font-size: 20px;
+    font-family:fourth;
+    color: white;
+}
+.whole{
+    border: 1px solid white;
+    padding-bottom: 50px;
+    
+}
+/* .whole2{
+    display: flex;
+    flex-direction: column;
+} */
+
+.primechecker{
+    color: white;
+}
+
+
