@@ -206,14 +206,19 @@ button:hover {
     .wholecardsecond{
         justify-content: space-evenly;
     }
-    .inone{
+    /* .inone{
         width: 50%;
-    }
+    } */
     .wholecardsecond{
         display: flex;
-        flex-direction: row;
+        /* flex-direction: row; */
         
+    }
+    .wholecard{
+        max-width: 580px;
+        margin: auto;
     }
     
     
 }
+

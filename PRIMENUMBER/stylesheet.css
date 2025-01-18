@@ -36,7 +36,9 @@ body{
     /* background: url(https://c.tenor.com/T0Pn_3X2R18AAAAC/swirl-purple.gif); */
     /* background:url(http://cdn.wallpapersafari.com/86/10/ukqRzY.gif); */
     /* background: url(https://media.giphy.com/media/OkVVUlG40FnuE/giphy.gif); */
-    background: url(https://media4.giphy.com/media/326d5iOUoYY8N6uFPm/giphy.gif?cid=6c09b952r8bir024eiy2bxeg4ojzciumn0q2jdvb3vsi62h4&ep=v1_gifs_search&rid=giphy.gif&ct=g);
+    /* background: url(https://media4.giphy.com/media/326d5iOUoYY8N6uFPm/giphy.gif?cid=6c09b952r8bir024eiy2bxeg4ojzciumn0q2jdvb3vsi62h4&ep=v1_gifs_search&rid=giphy.gif&ct=g); */
+    background-color: bisque;
+    background: url(https://thumbs.dreamstime.com/b/seamless-number-background-15341788.jpg);
     background-size: cover;
     background-position: center;
 }
